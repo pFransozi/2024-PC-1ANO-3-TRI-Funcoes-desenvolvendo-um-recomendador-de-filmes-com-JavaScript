@@ -20,7 +20,11 @@ Projeto realizado junto ao 1 ano do EM na disciplina de Pensamento Computacional
   * Aplicar a lógica condicional para recomendar filmes com base na idade do usuário;
   * Criar um campo de entrada de texto na interface do usuário, permitindo a interação direta com o programa;
   * Desenvolver parte do nosso fluxograma para recomendar diferentes filmes para diferentes faixas etárias.
-
+* **Aula 04**
+  * Utilizar dados do `checkbox` ao integrar uma caixa de seleção (`checkbox`) para entender se a pessoa gosta ou não de fantasia. Com isso, aprendemos a manejar entradas de sim (`checkbox` marcado) ou não (`checkbox` não marcado) no código;
+  * Utilizar elementos de interface gráfica com a criação de uma caixa de seleção para interação do usuário demonstrou como adicionar e utilizar elementos de interface gráfica no p5.js;
+  * Conectar elementos de interface com lógica de programação, como a idade e o interesse por fantasia, com a lógica de programação para gerar recomendações de filmes;
+  * Expandir a função geraRecomendacao para cobrir mais idades e preferências, tornando o recomendador mais parecido com o que planejamos.
 
 
 ## Para Saber Mais
