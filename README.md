@@ -29,6 +29,9 @@ Projeto realizado junto ao 1 ano do EM na disciplina de Pensamento Computacional
   * Aprimorar a lógica do recomendador refinando a função `geraRecomendacao` para analisar a idade e a preferência por gêneros de filmes, fornecendo recomendações personalizadas;
   * Melhorar a apresentação do resultado, utilizando as funções do P5.js como `textAlign()` e `textSize()` para centralizar e aumentar o tamanho do texto de recomendação;
   * Tornar a interface mais intuitiva adicionando etiquetas aos campos de entrada usando `createSpan()`, melhorando a clareza e a usabilidade do recomendador.
+* **Aula 06**
+  * Estilizar a página com CSS, ajustando a margem da página para criar espaço entre os elementos e as bordas da tela, e alterou a cor de fundo para um azul claro;
+  * Adicionar elementos com JavaScript como títulos, caixas de texto e checkboxes, e como isso contribui para a interatividade e funcionalidade do recomendador.
 
 
 ## Para Saber Mais
