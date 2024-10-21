@@ -25,6 +25,10 @@ Projeto realizado junto ao 1 ano do EM na disciplina de Pensamento Computacional
   * Utilizar elementos de interface gráfica com a criação de uma caixa de seleção para interação do usuário demonstrou como adicionar e utilizar elementos de interface gráfica no p5.js;
   * Conectar elementos de interface com lógica de programação, como a idade e o interesse por fantasia, com a lógica de programação para gerar recomendações de filmes;
   * Expandir a função geraRecomendacao para cobrir mais idades e preferências, tornando o recomendador mais parecido com o que planejamos.
+* **Aula 05**
+  * Aprimorar a lógica do recomendador refinando a função `geraRecomendacao` para analisar a idade e a preferência por gêneros de filmes, fornecendo recomendações personalizadas;
+  * Melhorar a apresentação do resultado, utilizando as funções do P5.js como `textAlign()` e `textSize()` para centralizar e aumentar o tamanho do texto de recomendação;
+  * Tornar a interface mais intuitiva adicionando etiquetas aos campos de entrada usando `createSpan()`, melhorando a clareza e a usabilidade do recomendador.
 
 
 ## Para Saber Mais
