@@ -32,6 +32,13 @@ Projeto realizado junto ao 1 ano do EM na disciplina de Pensamento Computacional
 * **Aula 06**
   * Estilizar a página com CSS, ajustando a margem da página para criar espaço entre os elementos e as bordas da tela, e alterou a cor de fundo para um azul claro;
   * Adicionar elementos com JavaScript como títulos, caixas de texto e checkboxes, e como isso contribui para a interatividade e funcionalidade do recomendador.
+* **Aula 07**
+  * Refinar a função `geraRecomendacao` para incluir uma condição adicional, permitindo que o recomendador identifique e sugira o filme "Ladrões de bicicleta" para usuários de 12 ou 13 anos. Isso foi feito incorporando um `if` adicional na lógica da função;
+  * Ampliar o recomendador para considerar não apenas o gosto por filmes de fantasia, mas também por aventuras, através da adição de uma nova variável chamada gostaDeAventura, assim como a criação de uma nova caixa de seleção;
+  * Modificar a estrutura da função `geraRecomendacao` para aceitar o novo parâmetro `gostaDeAventura`, e usar o operador lógico `||` para combinar condições, mostrando como podemos recomendar "Homem-Aranha: no Aranhaverso" para aqueles que gostam de fantasia ou aventura na faixa etária especificada.
+
+
+
 
 
 ## Para Saber Mais
